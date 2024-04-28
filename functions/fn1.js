@@ -11,5 +11,3 @@ function somefunction(a , b , fn ){
     return s1+s2
 }
 console.log(somefunction(2,3,cube))
-
-
